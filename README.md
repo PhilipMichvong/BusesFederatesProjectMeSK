@@ -23,7 +23,7 @@ zmianę środka transportu.
 
 ### Jak pobrac?
 
-```aidl
+```
 https://github.com/PhilipMichvong/BusesFederatesProjectMeSK
 ```
 
